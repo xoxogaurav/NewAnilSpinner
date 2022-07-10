@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "308866705749",
+    "project_id": "pocketpe-75a18",
+    "storage_bucket": "pocketpe-75a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308866705749:android:281c04559cea7a5fef67dc",
+        "android_client_info": {
+          "package_name": "com.Developersoft.Earnmoneyonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLvHpjUqJXci9Ya9f_MhdGDxQW41xjBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308866705749-dgvo5v3pst27323gc0b8iineusev6j1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mcoinsrewards.mcoins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308866705749:android:471668b1cc116289ef67dc",
+        "android_client_info": {
+          "package_name": "com.Developersoft.spinandwinspinwinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLvHpjUqJXci9Ya9f_MhdGDxQW41xjBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308866705749-dgvo5v3pst27323gc0b8iineusev6j1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mcoinsrewards.mcoins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308866705749:android:433d367d0536fc97ef67dc",
+        "android_client_info": {
+          "package_name": "com.mcoinsrewards.mcoins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLvHpjUqJXci9Ya9f_MhdGDxQW41xjBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308866705749-dgvo5v3pst27323gc0b8iineusev6j1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mcoinsrewards.mcoins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308866705749:android:fe4d857d5b3233ceef67dc",
+        "android_client_info": {
+          "package_name": "com.pickrr.showem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLvHpjUqJXci9Ya9f_MhdGDxQW41xjBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308866705749-dgvo5v3pst27323gc0b8iineusev6j1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mcoinsrewards.mcoins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308866705749:android:6d75547d5ddf1863ef67dc",
+        "android_client_info": {
+          "package_name": "com.pocket.pe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLvHpjUqJXci9Ya9f_MhdGDxQW41xjBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308866705749-lifr2ocrppo6jq1ifeuq4c9b2gntd278.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308866705749-dgvo5v3pst27323gc0b8iineusev6j1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mcoinsrewards.mcoins"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

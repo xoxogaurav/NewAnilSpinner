@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308866705749-dgvo5v3pst27323gc0b8iineusev6j1a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308866705749-dgvo5v3pst27323gc0b8iineusev6j1a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCR6_-nV7aPY-7K0Qx4hLx6AhqLfwVZgPY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308866705749</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mcoinsrewards.mcoins</string>
+	<key>PROJECT_ID</key>
+	<string>pocketpe-75a18</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pocketpe-75a18.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308866705749:ios:837c9ebf98368813ef67dc</string>
+</dict>
+</plist>
